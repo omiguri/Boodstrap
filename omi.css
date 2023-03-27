@@ -1,0 +1,11 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.top{
+    background-color:rgba(0, 0, 0, 0.856);
+    height:550px;
+    color: white;
+}
